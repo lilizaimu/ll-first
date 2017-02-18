@@ -8,7 +8,7 @@ public class xxx {
 
 
     public void oncreate(){
-           long ll;
+
     }
 
 }
