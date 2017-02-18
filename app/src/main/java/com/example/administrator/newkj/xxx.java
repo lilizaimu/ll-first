@@ -5,4 +5,10 @@ package com.example.administrator.newkj;
  */
 
 public class xxx {
+
+
+    public void oncreate(){
+
+    }
+
 }
