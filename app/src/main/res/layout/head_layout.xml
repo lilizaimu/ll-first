@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="180dp">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="100dp"
+        android:src="@drawable/a"
+        android:layout_margin="8dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:layout_height="100dp" />
+
+    <TextView
+        android:layout_margin="8dp"
+        android:text="李培琳"
+        android:gravity="center"
+        android:id="@+id/tv_name"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
