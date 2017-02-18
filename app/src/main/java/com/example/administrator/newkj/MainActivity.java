@@ -30,7 +30,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
-    int picsize=2;
+    int picsize;
     private int page=1;
     DrawerLayout drawerLayout;
     NavigationView navigationView;
