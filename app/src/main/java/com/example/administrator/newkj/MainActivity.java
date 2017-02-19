@@ -30,6 +30,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 
+    int sss=12;
     int picsize=2;
     private int page=1;
     DrawerLayout drawerLayout;
